@@ -39,7 +39,7 @@ Ricardo Allison Corpa Alfenas
 ![ModelagemMobile](https://github.com/RicardoCorpa/fit-system-mobile/blob/1096b84523fdc1b0ca744592eeca2b2ac39d4554/modeloConceitualMobile.png)
 
 ## --------------------------------------------------//--------------------------------------------------
-![telaMarmita](https://github.com/RicardoCorpa/fit-system-mobile/blob/eefaf1630b2044e0a67cc5259a98413ea1422042/img/telaMarmita.png)
+![telaMarmita](https://github.com/RicardoCorpa/fit-system-mobile/blob/4bc2a0577286e5316f3d1c4e23064717cb279da1/img/homeMarmita.png)
 ![adicionarMarmita](https://github.com/RicardoCorpa/fit-system-mobile/blob/eefaf1630b2044e0a67cc5259a98413ea1422042/img/adicionarMarmita.png)
 ![endereco](https://github.com/RicardoCorpa/fit-system-mobile/blob/eefaf1630b2044e0a67cc5259a98413ea1422042/img/confirmarEndereco.png)
 ![formaPagamento](https://github.com/RicardoCorpa/fit-system-mobile/blob/eefaf1630b2044e0a67cc5259a98413ea1422042/img/formaPagamento.png)
