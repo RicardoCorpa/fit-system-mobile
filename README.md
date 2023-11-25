@@ -36,6 +36,8 @@ Ricardo Allison Corpa Alfenas
 
 ## --------------------------------------------------//--------------------------------------------------
 
+![ModelagemMobile](https://github.com/RicardoCorpa/fit-system-mobile/blob/1096b84523fdc1b0ca744592eeca2b2ac39d4554/modeloConceitualMobile.png)
+
 ## Paleta de cores (Principal)
 
 #00bf63 - verde claro
