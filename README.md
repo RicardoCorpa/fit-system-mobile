@@ -2,7 +2,7 @@
 
 ## Aplicativo de delivery fitness em mobile, com motivação de propagar e incentivar uma boa refeição por parte dos alunos do SENAC.
 
-Este é um projeto mobile desenvolvido por Ricardo, Paulo, Elias, Lucas, Leonardo e Pedro para a disciplina de: Sistemas móveis distrbuídos.
+Este é um projeto mobile desenvolvido por Ricardo, Paulo, Elias, Lucas, Leonardo e Pedro para a disciplina de: Sistemas Móveis Distrbuídos.
 
 ## Lista de funcionalidades
 
