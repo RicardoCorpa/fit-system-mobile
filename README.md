@@ -20,6 +20,8 @@ Funcionalidade 5 - Deve exibir tela para finalizar compra;
 
 Funcionalidade 6 - Deve exibir uma tela para acompanhar o pedido.
 
+Proporção: 435x1000 (iPhone 15)
+
 ## Equipe
 
 Elias Gomes Feliciano
